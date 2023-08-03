@@ -1,6 +1,6 @@
 {
-  "name": "小南 Blog",
-  "short_name": "小南 Blog",
+  "name": "GBX Blog",
+  "short_name": "GBX Blog",
   "description": "A personal blog by engineer",
   "icons": [{
     "src": "icons/pwa_icon_128.png",
